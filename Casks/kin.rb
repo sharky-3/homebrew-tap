@@ -1,6 +1,6 @@
 cask "kin" do
-  version "1.0.1"
-  sha256 "bd648cd046fc67cf8fe3e88abc1d0e0e3831bd1ebe0b4688afc20df771327601"
+  version "1.0.2"
+  sha256 "b715f88a279ec9dbd838682a2b0a8349e0bbced6e537e437a807fb26530c8d2f"
 
   url "https://github.com/sharky-3/Kin/releases/download/v#{version}/Kin.zip"
   name "Kin"
